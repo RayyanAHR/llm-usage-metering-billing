@@ -1,6 +1,3 @@
-Here is the clean, properly formatted Markdown block for your **LLM Usage Metering & Billing Service** capstone project `README.md`:
-
-```markdown
 # LLM Usage Metering & Billing Service
 
 A scalable, multi-tenant backend service built with FastAPI, SQLAlchemy, PostgreSQL, Redis, and Stripe for tracking real-time LLM token consumption, calculating tiered model costs, and automating customer invoicing.
